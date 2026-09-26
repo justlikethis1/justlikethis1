@@ -24,10 +24,10 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
   <img src="https://img.shields.io/badge/French-Elementary_(A1)_/_初级(入门)-yellow?style=flat-square" alt="French: Elementary"/>
 </p>
 
-- **Chinese**: Native / 母语
-- **English**: Full Professional Proficiency / 高级 (无障碍商务沟通, IELTS 7.0)
-- **German**: Intermediate / 中级 (日常会话, B1)
-- **French**: Elementary / 初级 (入门, A1)
+- **Chinese**: Native
+- **English**: Full Professional Proficiency (IELTS 7.0)
+- **German**: Intermediate (DSD B1, Top scorer in the province on the college entrance exam)
+- **French**: Elementary
 
 ---
 
@@ -135,5 +135,6 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 ---
 
-*Contact: jhx03050@gmail.com | 2364261713@qq.com*
-*LinkedIn: [linkedin.com/in/haoxuan-jiang-5a9a5b249](https://www.linkedin.com/in/haoxuan-jiang-5a9a5b249)*
+*Contact: jhx03050@gmail.com | 2364261713@qq.com*  
+*LinkedIn: [linkedin.com/in/haoxuan-jiang-b294132a2](https://www.linkedin.com/in/haoxuan-jiang-b294132a2/)*
+*GitHub: [github.com/justlikethis1](https://github.com/justlikethis1)*
