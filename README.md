@@ -17,8 +17,6 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 ### Languages
 
-### Languages
-
 <p align="left">
   <img src="https://img.shields.io/badge/Chinese-Native-blue?style=flat-square" alt="Chinese: Native"/>
   <img src="https://img.shields.io/badge/English-Full_Professional_Proficiency_(IELTS_7.0)-brightgreen?style=flat-square" alt="English: Full Professional Proficiency"/>
@@ -138,5 +136,6 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 ---
 
 *Contact: jhx03050@gmail.com | 2364261713@qq.com*  
-*LinkedIn: [linkedin.com/in/haoxuan-jiang-b294132a2](https://www.linkedin.com/in/haoxuan-jiang-b294132a2/)*
+*LinkedIn: [linkedin.com/in/haoxuan-jiang-b294132a2](https://www.linkedin.com/in/haoxuan-jiang-b294132a2/)*  
 *GitHub: [github.com/justlikethis1](https://github.com/justlikethis1)*
+
