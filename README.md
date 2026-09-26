@@ -71,8 +71,9 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 - **China Electronics Technology Group Corporation (CETC)** | *Algorithm Engineer* `(2025.12 - 2026.05)`
   - Spearheaded post-training alignment (SFT / DPO / RLHF) for multimodal foundation models, yielding a **5% benchmark boost** and **8% drift reduction**.
-- **TravelSky Technology (中国航信)** | *AI Software Engineer Intern* `(2025.06 - 2025.09)`
-  - Built production ETL pipelines (50+ temporal features) and deployed predictive ML models via **FastAPI (<200ms latency)**, reducing prediction errors by **18%**.
+- **TravelSky Technology** | *AI Software Engineer Intern* `(2025.06 - 2025.09)`
+  - Engineered automated production ETL pipelines extracting 50+ temporal features and deployed predictive models via **FastAPI (<200ms latency)**, reducing prediction error by **18%**.
+
 - **Tsinghua University (LFET Lab)** | *Embedded Systems Engineer Intern* `(2023.06 - 2023.09)`
   - Engineered high-precision data acquisition front-ends with precision ADCs and low-noise filters (+20% accuracy); automated dynamic strain field processing in MATLAB (+30% throughput).
 
