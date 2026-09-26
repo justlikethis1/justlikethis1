@@ -121,10 +121,10 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justlikethis1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Haoxuan's GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/2196f3/justlikethis1" alt="Haoxuan's GitHub Contributions" width="100%" />
 </p>
 
 ---
