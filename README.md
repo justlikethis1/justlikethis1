@@ -56,13 +56,19 @@ Driven by the intersection of **LLM Alignment & Reasoning**, **Multi-Agent Syste
 - Architected **5 cooperative agents** handling real-time data feeds, fundamental/technical analysis, and summary synthesis.
 - Built a cascaded NLP pipeline featuring sub-10ms intent recognition & NER, SQLite conversational state tracking, and local 4-bit quantized deployment.
 
-#### 2. Cloud-Edge Perception & High-Speed SLAM Pipeline
+#### 2. [SlimMCP](https://github.com/justlikethis1/SlimMCP) — Lightweight SLM Fine-Tuning & MCP Integration
+*Efficient open-source model alignment and Model Context Protocol (MCP) tool-use harness.*
+- Implemented parameter-efficient fine-tuning (PEFT/LoRA) and preference alignment pipelines targeting compact models.
+- Engineered standardized Model Context Protocol (MCP) server interfaces for structured tool calling, dynamic context injection, and reduced token consumption.
+- Optimized training memory footprints and inference runtime via KV-cache tuning and GPU memory management in PyTorch/CUDA environments.
+
+#### 3. Cloud-Edge Perception & High-Speed SLAM Pipeline
 *Autonomous Racing System | Computer Vision & Systems Optimization (UESTC Fury Racing)*
 - Developed a distributed perception framework combining **YOLOv5** and **ORB-SLAM3** with LiDAR-camera tight coupling.
 - Restructured computation flows using **CUDA parallel computing**, reducing processing latency by **40%** and maintaining **20Hz @ 80km/h** with Kalman filter delay compensation.
 - Built cloud-edge messaging using ROS topics to support edge inference and cloud-based online model updates.
 
-#### 3. LLM / MLLM Post-Training & Preference Alignment
+#### 4. LLM / MLLM Post-Training & Preference Alignment
 *AI Chip and System Research Center (CETC)*
 - Targeted out-of-domain generalization in multimodal foundation models via systematic post-training.
 - Curated instruction tuning datasets, tuned hyperparameters across **SFT, DPO, and RLHF**, achieving a 5% relative accuracy gain on core benchmarks and reducing off-topic drift by 8%.
@@ -83,7 +89,6 @@ Driven by the intersection of **LLM Alignment & Reasoning**, **Multi-Agent Syste
   <img src="https://streak-stats.demolab.com?user=justlikethis1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=justlikethis1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
 </p>
-
 
 ---
 
