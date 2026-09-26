@@ -1,4 +1,4 @@
-# Hi, I'm Haoxuan Jiang (蒋昊轩)
+# Haoxuan Jiang (蒋昊轩)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/haoxuan-jiang-b294132a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
@@ -8,24 +8,40 @@
   <img src="https://img.shields.io/badge/UESTC_%7C_Glasgow-Dual_BEng_in_EE-1C3D73?style=flat-square" alt="UESTC-Glasgow"/>
 </p>
 
-Incoming Master student in **Artificial Intelligence & Entrepreneurship** at **HKUST**.
+Incoming Master student in **Artificial Intelligence & Entrepreneurship** at **HKUST**.  
 Dual BEng Graduate from **UESTC** & **University of Glasgow** (Electronics & Information Engineering).
 
 Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Agent Systems**, and **High-Performance AI Systems (CUDA, Cloud-Edge, & Quantization)**.
 
 ---
 
+### Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Chinese-Native_/_母语-blue?style=flat-square" alt="Chinese: Native"/>
+  <img src="https://img.shields.io/badge/English-Professional_Working_/_高级(无障碍商务沟通)-brightgreen?style=flat-square" alt="English: Professional Working"/>
+  <img src="https://img.shields.io/badge/German-Intermediate_(B1)_/_中级(日常会话)-orange?style=flat-square" alt="German: Intermediate"/>
+  <img src="https://img.shields.io/badge/French-Elementary_(A1)_/_初级(入门)-yellow?style=flat-square" alt="French: Elementary"/>
+</p>
+
+- **Chinese**: Native / 母语
+- **English**: Full Professional Proficiency / 高级 (无障碍商务沟通, IELTS 7.0)
+- **German**: Intermediate / 中级 (日常会话, B1)
+- **French**: Elementary / 初级 (入门, A1)
+
+---
+
 ### Core Technical Focus
 
 - **LLM Post-Training & Advanced Architectures**:
-- Deep exploration into **SFT, DPO, and RLHF** for domain adaptation and mitigation of hallucinations.
-- Parameter-efficient fine-tuning (LoRA/QLoRA), **Mixture of Experts (MoE)** routing, and instruction curation.
+  - Deep exploration into **SFT, DPO, and RLHF** for domain adaptation and mitigation of hallucinations.
+  - Parameter-efficient fine-tuning (LoRA/QLoRA), **Mixture of Experts (MoE)** routing, and instruction curation.
 - **AI Systems & Hardware-Software Co-Design**:
-- **Inference & Serving Optimization**: High-concurrency microservices, 4-bit/8-bit quantization, and low-latency serving.
-- **Parallel & Edge Computing**: CUDA acceleration, multi-sensor tight coupling, embedded data acquisition, and ROS cloud-edge pipelines.
+  - **Inference & Serving Optimization**: High-concurrency microservices, 4-bit/8-bit quantization, and low-latency serving.
+  - **Parallel & Edge Computing**: CUDA acceleration, multi-sensor tight coupling, embedded data acquisition, and ROS cloud-edge pipelines.
 - **Agentic Workflows & Multi-Agent Collaboration**:
-- Autonomous multi-agent pipelines for quantitative finance, financial NLP, and sub-10ms intent parsing.
-- Model Context Protocol (MCP) tool integration and modular context orchestration.
+  - Autonomous multi-agent pipelines for quantitative finance, financial NLP, and sub-10ms intent parsing.
+  - Model Context Protocol (MCP) tool integration and modular context orchestration.
 
 ---
 
@@ -54,50 +70,40 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 ### Professional Experience
 
 - **China Electronics Technology Group Corporation (CETC)** | *Algorithm Engineer* `(2025.12 - 2026.05)`
-- Spearheaded post-training alignment (SFT / DPO / RLHF) for multimodal foundation models, yielding a **5% benchmark boost** and **8% drift reduction**.
+  - Spearheaded post-training alignment (SFT / DPO / RLHF) for multimodal foundation models, yielding a **5% benchmark boost** and **8% drift reduction**.
 - **TravelSky Technology (中国航信)** | *AI Software Engineer Intern* `(2025.06 - 2025.09)`
-- Built production ETL pipelines (50+ temporal features) and deployed predictive ML models via **FastAPI (<200ms latency)**, reducing prediction errors by **18%**.
+  - Built production ETL pipelines (50+ temporal features) and deployed predictive ML models via **FastAPI (<200ms latency)**, reducing prediction errors by **18%**.
 - **Tsinghua University (LFET Lab)** | *Embedded Systems Engineer Intern* `(2023.06 - 2023.09)`
-- Engineered high-precision data acquisition front-ends with precision ADCs and low-noise filters (+20% accuracy); automated dynamic strain field processing in MATLAB (+30% throughput).
+  - Engineered high-precision data acquisition front-ends with precision ADCs and low-noise filters (+20% accuracy); automated dynamic strain field processing in MATLAB (+30% throughput).
 
 ---
 
 ### Highlighted Systems & Projects
 
 #### 1. [Finance_Helper](https://github.com/justlikethis1/Finance_Helper) — Multi-Agent Financial Research Platform
-
 *High-concurrency Agentic AI system built with FastAPI, Local LLMs, and multi-tier caching.*
-
 - Architected **5 cooperative agents** handling real-time data feeds, fundamental/technical analysis, and summary synthesis.
 - Built a cascaded NLP pipeline featuring sub-10ms intent recognition & NER, SQLite conversational state tracking, and local 4-bit quantized deployment.
 
 #### 2. [SlimMCP](https://github.com/justlikethis1/SlimMCP) — Lightweight SLM Fine-Tuning & MCP Integration
-
 *Efficient open-source model alignment and Model Context Protocol (MCP) tool-use harness.*
-
 - Implemented parameter-efficient fine-tuning (PEFT/LoRA) and preference alignment pipelines targeting compact models (e.g., Qwen 2.5 series).
 - Engineered standardized Model Context Protocol (MCP) server interfaces for structured tool calling, dynamic context injection, and reduced token consumption.
 - Optimized training memory footprints and inference runtime via KV-cache tuning and GPU memory management in PyTorch/CUDA environments.
 
 #### 3. Transformer-MoE Multi-Task Semiconductor Screening (Final Year Project)
-
 *Physics-Informed Deep Learning & AI for Science (UESTC)*
-
 - Formulated a multi-task learning architecture combining **Transformer self-attention and Mixture of Experts (MoE)** for high-throughput semiconductor property prediction.
 - Designed a 49-dimensional physics-informed feature pipeline from Materials Project and constraint simulations, boosting raw representation capacity by 3x.
 - Achieved **$R^2 > 0.997$** across continuous regression tasks (band gap & formation energy) and **$>99.5\%$ accuracy** across categorical classifications with robust noise resilience.
 
 #### 4. Real-Time Flight Route Planning & Inference Platform
-
 *High-Throughput ML Serving & Production ETL Pipelines (TravelSky)*
-
 - Engineered automated data pipelines extracting 50+ business-critical temporal features, elevating dataset quality by **40%**.
 - Containerized and served the architecture as a high-availability **FastAPI microservice**, achieving robust production throughput with **<200ms end-to-end inference latency**.
 
 #### 5. Cloud-Edge Perception & High-Speed SLAM Pipeline
-
 *Autonomous Racing System | Computer Vision & Systems Optimization (UESTC Fury Racing)*
-
 - Developed a distributed perception framework combining **YOLOv5** and **ORB-SLAM3** with LiDAR-camera tight coupling.
 - Restructured computation flows using **CUDA parallel computing**, reducing processing latency by **40%** and maintaining **20Hz @ 80km/h** with Kalman filter delay compensation.
 - Built cloud-edge messaging using ROS topics to support edge inference and cloud-based online model updates.
@@ -121,7 +127,7 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 ---
 
-### 📊 GitHub Contributions
+### GitHub Contributions
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2196f3/justlikethis1" alt="Haoxuan's GitHub Contributions" width="100%" />
@@ -129,4 +135,5 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 ---
 
- *Always open to discussions on LLM architectures, AI system optimization, or high-performance computing!*
+*Contact: jhx03050@gmail.com | 2364261713@qq.com*
+*LinkedIn: [linkedin.com/in/haoxuan-jiang-5a9a5b249](https://www.linkedin.com/in/haoxuan-jiang-5a9a5b249)*
