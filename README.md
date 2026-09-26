@@ -1,7 +1,7 @@
 # Hi, I'm Haoxuan Jiang (蒋昊轩) 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/haoxuan-jiang"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/haoxuan-jiang-b294132a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:jhx03050@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email"/></a>
   <img src="https://img.shields.io/badge/HKUST-MSc_AI_%26_Entrepreneurship-003366?style=flat-square" alt="HKUST"/>
   <img src="https://img.shields.io/badge/UESTC_%7C_Glasgow-Dual_BEng_in_EE-1C3D73?style=flat-square" alt="UESTC-Glasgow"/>
