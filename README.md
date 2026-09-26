@@ -17,11 +17,13 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 ### Languages
 
+### Languages
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Chinese-Native_/_母语-blue?style=flat-square" alt="Chinese: Native"/>
-  <img src="https://img.shields.io/badge/English-Professional_Working_/_高级(无障碍商务沟通)-brightgreen?style=flat-square" alt="English: Professional Working"/>
-  <img src="https://img.shields.io/badge/German-Intermediate_(B1)_/_中级(日常会话)-orange?style=flat-square" alt="German: Intermediate"/>
-  <img src="https://img.shields.io/badge/French-Elementary_(A1)_/_初级(入门)-yellow?style=flat-square" alt="French: Elementary"/>
+  <img src="https://img.shields.io/badge/Chinese-Native-blue?style=flat-square" alt="Chinese: Native"/>
+  <img src="https://img.shields.io/badge/English-Full_Professional_Proficiency_(IELTS_7.0)-brightgreen?style=flat-square" alt="English: Full Professional Proficiency"/>
+  <img src="https://img.shields.io/badge/German-Intermediate_(DSD_B1)-orange?style=flat-square" alt="German: Intermediate"/>
+  <img src="https://img.shields.io/badge/French-Elementary-yellow?style=flat-square" alt="French: Elementary"/>
 </p>
 
 - **Chinese**: Native
