@@ -126,13 +126,6 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 - **Co-Chair of Management Committee** — *PeerHelp Association (UESTC & Glasgow)* `(2024.07 - 2025.09)`
   - Led a team of nearly 100 peer consultants; established standardized counseling workflows and completed 500+ successful academic matching sessions (>90% satisfaction rate).
 
----
-
-### GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2196f3/justlikethis1" alt="Haoxuan's GitHub Contributions" width="100%" />
-</p>
 
 ---
 
