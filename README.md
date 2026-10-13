@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/UESTC_%7C_Glasgow-Dual_BEng_in_EE-1C3D73?style=flat-square" alt="UESTC-Glasgow"/>
 </p>
 
-Incoming Master student in **Artificial Intelligence & Entrepreneurship** at **HKUST**.  
+Master student in **Artificial Intelligence & Entrepreneurship** at **HKUST**.
 Dual BEng Graduate from **UESTC** & **University of Glasgow** (Electronics & Information Engineering).
 
 Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Agent Systems**, and **High-Performance AI Systems (CUDA, Cloud-Edge, & Quantization)**.
@@ -70,11 +70,13 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 ### Professional Experience
 
 - **China Electronics Technology Group Corporation (CETC)** | *Algorithm Engineer* `(2025.12 - 2026.05)`
+
   - Spearheaded post-training alignment (SFT / DPO / RLHF) for multimodal foundation models, yielding a **5% benchmark boost** and **8% drift reduction**.
 - **TravelSky Technology** | *AI Software Engineer Intern* `(2025.06 - 2025.09)`
-  - Engineered automated production ETL pipelines extracting 50+ temporal features and deployed predictive models via **FastAPI (<200ms latency)**, reducing prediction error by **18%**.
 
+  - Engineered automated production ETL pipelines extracting 50+ temporal features and deployed predictive models via **FastAPI (<200ms latency)**, reducing prediction error by **18%**.
 - **Tsinghua University (LFET Lab)** | *Embedded Systems Engineer Intern* `(2023.06 - 2023.09)`
+
   - Engineered high-precision data acquisition front-ends with precision ADCs and low-noise filters (+20% accuracy); automated dynamic strain field processing in MATLAB (+30% throughput).
 
 ---
@@ -82,34 +84,46 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 ### Highlighted Systems & Projects
 
 #### 1. [Career_Resume_Skill](https://github.com/justlikethis1/Career_Resume_Skill) — Evidence-Grounded Resume & Cover Letter Generator
+
 *End-to-end MCP skill built with Python, DeepSeek/OpenAI-compatible APIs, Pydantic, LaTeX, and DOCX/OOXML.*
+
 - Built a bilingual occupation-classification and application-generation pipeline supporting JD/URL parsing, gap analysis, evidence-grounded resume rewriting, and three-paragraph cover letters.
 - Implemented LaTeX/PDF rendering and in-place DOCX template backfilling with evidence IDs, claim ledgers, Pydantic schema validation, and page/metric/technology-integrity gates; maintained **3,000+ offline regression tests**.
 
 #### 2. [Finance_Helper](https://github.com/justlikethis1/Finance_Helper) — Multi-Agent Financial Research Platform
+
 *High-concurrency Agentic AI system built with FastAPI, ONNX Runtime, local finance BERT, and multi-tier caching.*
+
 - Architected **5 cooperative agents** plus Coordinator/Critic/ReAct layers for real-time market data, fundamental/technical analysis, and evidence-based synthesis.
 - Built a cascaded NLP pipeline with a shared-encoder multi-task BERT for intent, NER, tool recommendation, and complexity routing; integrated FastAPI, SQLite conversational state, and Chroma-backed semantic/procedural memory.
 
 #### 3. [SlimMCP](https://github.com/justlikethis1/SlimMCP) — Lightweight SLM Fine-Tuning & MCP Integration
+
 *Efficient open-source model alignment and Model Context Protocol (MCP) tool-use harness.*
+
 - Implemented parameter-efficient fine-tuning (PEFT/LoRA) and preference alignment pipelines targeting compact models (e.g., Qwen 2.5 series).
 - Engineered standardized Model Context Protocol (MCP) server interfaces for structured tool calling, dynamic context injection, and reduced token consumption.
 - Optimized training memory footprints and inference runtime via KV-cache tuning and GPU memory management in PyTorch/CUDA environments.
 
 #### 4. Transformer-MoE Multi-Task Semiconductor Screening (Final Year Project)
+
 *Physics-Informed Deep Learning & AI for Science (UESTC)*
+
 - Formulated a multi-task learning architecture combining **Transformer self-attention and Mixture of Experts (MoE)** for high-throughput semiconductor property prediction.
 - Designed a 49-dimensional physics-informed feature pipeline from Materials Project and constraint simulations, boosting raw representation capacity by 3x.
 - Achieved **$R^2 > 0.997$** across continuous regression tasks (band gap & formation energy) and **$>99.5\%$ accuracy** across categorical classifications with robust noise resilience.
 
 #### 5. Real-Time Flight Route Planning & Inference Platform
+
 *High-Throughput ML Serving & Production ETL Pipelines (TravelSky)*
+
 - Engineered automated data pipelines extracting 50+ business-critical temporal features, elevating dataset quality by **40%**.
 - Containerized and served the architecture as a high-availability **FastAPI microservice**, achieving robust production throughput with **<200ms end-to-end inference latency**.
 
 #### 6. Cloud-Edge Perception & High-Speed SLAM Pipeline
+
 *Autonomous Racing System | Computer Vision & Systems Optimization (UESTC Fury Racing)*
+
 - Developed a distributed perception framework combining **YOLOv5** and **ORB-SLAM3** with LiDAR-camera tight coupling.
 - Restructured computation flows using **CUDA parallel computing**, reducing processing latency by **40%** and maintaining **20Hz @ 80km/h** with Kalman filter delay compensation.
 - Built cloud-edge messaging using ROS topics to support edge inference and cloud-based online model updates.
@@ -131,9 +145,8 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 - **Co-Chair of Management Committee** — *PeerHelp Association (UESTC & Glasgow)* `(2024.07 - 2025.09)`
   - Led a team of nearly 100 peer consultants; established standardized counseling workflows and completed 500+ successful academic matching sessions (>90% satisfaction rate).
 
-
 ---
 
-*Contact: jhx03050@gmail.com | 2364261713@qq.com*  
-*LinkedIn: [linkedin.com/in/haoxuan-jiang-b294132a2](https://www.linkedin.com/in/haoxuan-jiang-b294132a2/)*  
+*Contact: jhx03050@gmail.com | 2364261713@qq.com*
+*LinkedIn: [linkedin.com/in/haoxuan-jiang-b294132a2](https://www.linkedin.com/in/haoxuan-jiang-b294132a2/)*
 *GitHub: [github.com/justlikethis1](https://github.com/justlikethis1)*
