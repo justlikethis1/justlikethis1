@@ -5,11 +5,11 @@
   <a href="mailto:jhx03050@gmail.com"><img src="https://img.shields.io/badge/Gmail-jhx03050@gmail.com-D14836?style=flat-square&logo=gmail" alt="Gmail"/></a>
   <a href="mailto:2364261713@qq.com"><img src="https://img.shields.io/badge/QQ_Mail-2364261713@qq.com-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Mail"/></a>
   <img src="https://img.shields.io/badge/HKUST-MSc_AI_%26_Entrepreneurship-003366?style=flat-square" alt="HKUST"/>
-  <img src="https://img.shields.io/badge/UESTC_%7C_Glasgow-Dual_BEng_in_EE-1C3D73?style=flat-square" alt="UESTC-Glasgow"/>
+  <img src="https://img.shields.io/badge/UESTC_%7C_Glasgow-Dual_BEng_(Honours)_in_EE-1C3D73?style=flat-square" alt="UESTC-Glasgow"/>
 </p>
 
 Master student in **Artificial Intelligence & Entrepreneurship** at **HKUST**.
-Dual BEng Graduate from **UESTC** & **University of Glasgow** (Electronics & Information Engineering).
+Dual BEng (Honours) Graduate from **UESTC** & **University of Glasgow** (Electronics & Information Engineering).
 
 Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Agent Systems**, and **High-Performance AI Systems (CUDA, Cloud-Edge, & Quantization)**.
 
