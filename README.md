@@ -81,29 +81,34 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 ### Highlighted Systems & Projects
 
-#### 1. [Finance_Helper](https://github.com/justlikethis1/Finance_Helper) — Multi-Agent Financial Research Platform
-*High-concurrency Agentic AI system built with FastAPI, Local LLMs, and multi-tier caching.*
-- Architected **5 cooperative agents** handling real-time data feeds, fundamental/technical analysis, and summary synthesis.
-- Built a cascaded NLP pipeline featuring sub-10ms intent recognition & NER, SQLite conversational state tracking, and local 4-bit quantized deployment.
+#### 1. [Career_Resume_Skill](https://github.com/justlikethis1/Career_Resume_Skill) — Evidence-Grounded Resume & Cover Letter Generator
+*End-to-end MCP skill built with Python, DeepSeek/OpenAI-compatible APIs, Pydantic, LaTeX, and DOCX/OOXML.*
+- Built a bilingual occupation-classification and application-generation pipeline supporting JD/URL parsing, gap analysis, evidence-grounded resume rewriting, and three-paragraph cover letters.
+- Implemented LaTeX/PDF rendering and in-place DOCX template backfilling with evidence IDs, claim ledgers, Pydantic schema validation, and page/metric/technology-integrity gates; maintained **3,000+ offline regression tests**.
 
-#### 2. [SlimMCP](https://github.com/justlikethis1/SlimMCP) — Lightweight SLM Fine-Tuning & MCP Integration
+#### 2. [Finance_Helper](https://github.com/justlikethis1/Finance_Helper) — Multi-Agent Financial Research Platform
+*High-concurrency Agentic AI system built with FastAPI, ONNX Runtime, local finance BERT, and multi-tier caching.*
+- Architected **5 cooperative agents** plus Coordinator/Critic/ReAct layers for real-time market data, fundamental/technical analysis, and evidence-based synthesis.
+- Built a cascaded NLP pipeline with a shared-encoder multi-task BERT for intent, NER, tool recommendation, and complexity routing; integrated FastAPI, SQLite conversational state, and Chroma-backed semantic/procedural memory.
+
+#### 3. [SlimMCP](https://github.com/justlikethis1/SlimMCP) — Lightweight SLM Fine-Tuning & MCP Integration
 *Efficient open-source model alignment and Model Context Protocol (MCP) tool-use harness.*
 - Implemented parameter-efficient fine-tuning (PEFT/LoRA) and preference alignment pipelines targeting compact models (e.g., Qwen 2.5 series).
 - Engineered standardized Model Context Protocol (MCP) server interfaces for structured tool calling, dynamic context injection, and reduced token consumption.
 - Optimized training memory footprints and inference runtime via KV-cache tuning and GPU memory management in PyTorch/CUDA environments.
 
-#### 3. Transformer-MoE Multi-Task Semiconductor Screening (Final Year Project)
+#### 4. Transformer-MoE Multi-Task Semiconductor Screening (Final Year Project)
 *Physics-Informed Deep Learning & AI for Science (UESTC)*
 - Formulated a multi-task learning architecture combining **Transformer self-attention and Mixture of Experts (MoE)** for high-throughput semiconductor property prediction.
 - Designed a 49-dimensional physics-informed feature pipeline from Materials Project and constraint simulations, boosting raw representation capacity by 3x.
 - Achieved **$R^2 > 0.997$** across continuous regression tasks (band gap & formation energy) and **$>99.5\%$ accuracy** across categorical classifications with robust noise resilience.
 
-#### 4. Real-Time Flight Route Planning & Inference Platform
+#### 5. Real-Time Flight Route Planning & Inference Platform
 *High-Throughput ML Serving & Production ETL Pipelines (TravelSky)*
 - Engineered automated data pipelines extracting 50+ business-critical temporal features, elevating dataset quality by **40%**.
 - Containerized and served the architecture as a high-availability **FastAPI microservice**, achieving robust production throughput with **<200ms end-to-end inference latency**.
 
-#### 5. Cloud-Edge Perception & High-Speed SLAM Pipeline
+#### 6. Cloud-Edge Perception & High-Speed SLAM Pipeline
 *Autonomous Racing System | Computer Vision & Systems Optimization (UESTC Fury Racing)*
 - Developed a distributed perception framework combining **YOLOv5** and **ORB-SLAM3** with LiDAR-camera tight coupling.
 - Restructured computation flows using **CUDA parallel computing**, reducing processing latency by **40%** and maintaining **20Hz @ 80km/h** with Kalman filter delay compensation.
@@ -132,4 +137,3 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 *Contact: jhx03050@gmail.com | 2364261713@qq.com*  
 *LinkedIn: [linkedin.com/in/haoxuan-jiang-b294132a2](https://www.linkedin.com/in/haoxuan-jiang-b294132a2/)*  
 *GitHub: [github.com/justlikethis1](https://github.com/justlikethis1)*
-
