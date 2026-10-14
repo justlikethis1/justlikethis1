@@ -19,12 +19,14 @@ Driven by the intersection of **LLM Alignment & MoE Architectures**, **Multi-Age
 
 <p align="left">
   <img src="https://img.shields.io/badge/Chinese-Native-blue?style=flat-square" alt="Chinese: Native"/>
+  <img src="https://img.shields.io/badge/Shanghainese-Native-blue?style=flat-square" alt="Shanghainese: Native"/>
   <img src="https://img.shields.io/badge/English-Full_Professional_Proficiency_(IELTS_7.0)-brightgreen?style=flat-square" alt="English: Full Professional Proficiency"/>
   <img src="https://img.shields.io/badge/German-Intermediate_(DSD_B1)-orange?style=flat-square" alt="German: Intermediate"/>
   <img src="https://img.shields.io/badge/French-Elementary-yellow?style=flat-square" alt="French: Elementary"/>
 </p>
 
 - **Chinese**: Native
+- **Shanghainese**: Native
 - **English**: Full Professional Proficiency (IELTS 7.0)
 - **German**: Intermediate (DSD B1, Top scorer in the province on the college entrance exam)
 - **French**: Elementary
